@@ -129,6 +129,9 @@ Visualization techniques were used to understand fraud patterns and transaction 
 
 📊 Visualizations Used
 Visualization	Purpose
+<img width="584" height="357" alt="vis1" src="https://github.com/user-attachments/assets/957d5d02-ace8-4937-aba7-8f4315caa3bf" />
+<img width="640" height="424" alt="vis2" src="https://github.com/user-attachments/assets/aa26f16e-9b87-4bd4-a627-ed983734a883" />
+
 Bar Charts	Fraud distribution
 Histograms	Transaction amount analysis
 Scatter Plots	Relationship analysis
