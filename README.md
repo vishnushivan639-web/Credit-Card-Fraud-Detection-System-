@@ -32,11 +32,11 @@ Model evaluation and insights generation
 
 The main objective of this project is to:
 
-✅ Identify fraudulent transaction patterns
-✅ Analyze transaction behavior
-✅ Detect suspicious activities
-✅ Support fraud prevention strategies
-✅ Improve financial security systems
+ Identify fraudulent transaction patterns
+ Analyze transaction behavior
+ Detect suspicious activities
+ Support fraud prevention strategies
+ Improve financial security systems
 
 📂 Dataset
 Dataset Source
@@ -90,12 +90,12 @@ Data preprocessing was performed to improve dataset quality and analysis perform
 
 Tasks Performed
 
-✅ Checked missing values
-✅ Removed duplicate records
-✅ Verified data types
-✅ Cleaned transaction data
-✅ Created risk categories
-✅ Ensured data consistency
+ Checked missing values
+ Removed duplicate records
+ Verified data types
+ Cleaned transaction data
+ Created risk categories
+ Ensured data consistency
 
 📊 2. Exploratory Data Analysis (EDA)
 
@@ -250,13 +250,13 @@ Plotly
 
 📌 Dashboard Features
 
-✅ Fraud transaction distribution
-✅ Transaction amount visualization
-✅ Scatter plot analysis
-✅ Risk level charts
-✅ Correlation heatmap
-✅ Dynamic visualizations
-✅ Interactive filtering
+ Fraud transaction distribution
+ Transaction amount visualization
+ Scatter plot analysis
+ Risk level charts
+ Correlation heatmap
+ Dynamic visualizations
+ Interactive filtering
 
 💻 Technologies Used
 Technology	Purpose
@@ -272,19 +272,19 @@ Jupyter Notebook	Development Environment
 
 The project identified several important fraud-related patterns:
 
-✅ Fraud transactions often show unusual transaction amounts
-✅ Some transaction patterns are strongly related to fraud
-✅ Outlier transactions indicate suspicious behavior
-✅ Risk classification improves fraud analysis
-✅ Correlation analysis helps identify important influencing features
+ Fraud transactions often show unusual transaction amounts
+ Some transaction patterns are strongly related to fraud
+ Outlier transactions indicate suspicious behavior
+ Risk classification improves fraud analysis
+ Correlation analysis helps identify important influencing features
 
 🎯 Expected Outcomes
 
-✅ Better fraud detection understanding
-✅ Improved transaction risk analysis
-✅ Enhanced fraud prevention strategies
-✅ Interactive fraud analytics dashboard
-✅ Better financial security support
+ Better fraud detection understanding
+ Improved transaction risk analysis
+ Enhanced fraud prevention strategies
+ Interactive fraud analytics dashboard
+ Better financial security support
 
 📌 Conclusion
 
