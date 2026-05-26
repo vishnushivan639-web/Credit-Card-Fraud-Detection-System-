@@ -240,6 +240,10 @@ Measures overall model effectiveness.
 
 📊 11. Dashboard Visualization
 
+<img width="1127" height="441" alt="dashboard" src="https://github.com/user-attachments/assets/86b7806b-c4ef-46c6-97ce-a0e23811360e" />
+<img width="1142" height="407" alt="dashboard2" src="https://github.com/user-attachments/assets/ac7520dd-b940-421f-a0fd-48eb0c4dc742" />
+
+
 Interactive dashboards were created using:
 
 Plotly
